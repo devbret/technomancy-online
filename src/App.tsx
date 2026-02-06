@@ -1,4 +1,3 @@
-import React from "react";
 import IdeasGraphView from "./components/Network";
 
 export default function App() {
