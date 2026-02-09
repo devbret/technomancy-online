@@ -113,4 +113,13 @@ export const ideaNodes: IdeaNode[] = [
     tags: ["experience", "knowledge", "innovation"],
     type: "concept",
   },
+  {
+    id: "cyberspace",
+    label: "Cyberspace",
+    description:
+      "A global, immaterial domain created by interconnected computer systems and networks where data, interactions, identities and experiences exist and evolve independently of time and geography.",
+    url: "",
+    tags: ["internet", "realm", "reality"],
+    type: "concept",
+  },
 ];
