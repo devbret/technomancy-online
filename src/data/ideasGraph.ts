@@ -122,4 +122,13 @@ export const ideaNodes: IdeaNode[] = [
     tags: ["internet", "realm", "reality"],
     type: "concept",
   },
+  {
+    id: "cyborg-consciousness",
+    label: "Cyborg Consciousness",
+    description:
+      "A posthuman mode of awareness which emerges from boundary dissolution, embraces contradiction, rejects fixed dualisms and operates politically through intentional coalition, affinity and resistance within networks of power.",
+    url: "",
+    tags: ["transhumanism", "blasphemy", "strategic"],
+    type: "concept",
+  },
 ];
