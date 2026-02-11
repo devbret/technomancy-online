@@ -131,4 +131,13 @@ export const ideaNodes: IdeaNode[] = [
     tags: ["transhumanism", "blasphemy", "strategic"],
     type: "concept",
   },
+  {
+    id: "free-and-open-source-software",
+    label: "Free And Open Source Software",
+    description:
+      "Software whose source code is openly accessible and licensed to guarantee users the freedom to run, study, modify and redistribute it, thereby promoting transparency, collaboration and shared technological advancement.",
+    url: "",
+    tags: ["flexibility", "freedom", "movement", "community"],
+    type: "concept",
+  },
 ];
