@@ -256,4 +256,87 @@ export const ideaNodes: IdeaNode[] = [
     tags: ["loosh", "feeding", "empaths"],
     type: "concept",
   },
+  {
+    id: "cybernetics",
+    label: "Cybernetics",
+    description:
+      "The interdisciplinary study of how complex systems use feedback, communication and self-regulating processes to maintain organization, adapt to their environment and shape their own behavior over time.",
+    url: "",
+    tags: ["virtuality", "circularity", "observation", "feedback"],
+    type: "concept",
+  },
+  {
+    id: "systems-theory",
+    label: "Systems Theory",
+    description:
+      "A framework for studying how interconnected and interdependent components within open or closed systems interact through feedback, boundaries and environmental exchange to produce emergent, goal-oriented behaviors in which the whole is greater than the sum of its parts.",
+    url: "",
+    tags: ["emergence", "boundaries", "environment", "feedback"],
+    type: "concept",
+  },
+  {
+    id: "osint",
+    label: "OSINT",
+    description:
+      "The iterative practice of gathering, processing, analyzing and reporting on publicly available information to generate actionable insights, enhance situational awareness and support decision-making for individuals or organizations.",
+    url: "",
+    tags: ["public", "data", "research", "mindset", "reporting"],
+    type: "concept",
+  },
+  {
+    id: "forking-software",
+    label: "Forking Software",
+    description:
+      "The creation of a new, independent line of development from an existing project's source code and is a fundamental right within free and open-source software that allows communities to diverge in direction, features or governance.",
+    url: "",
+    tags: ["communities", "licenses", "source-code", "software"],
+    type: "concept",
+  },
+  {
+    id: "network-state-movement",
+    label: "Network State Movement",
+    description:
+      "An internet-first, geographically decentralized effort to build digitally coordinated communities that organize collective action online, acquire physical territory and ultimately seek diplomatic recognition as sovereign entities independent of traditional nation-states.",
+    url: "",
+    tags: ["decentralized", "internet", "diplomacy", "anarcho-capitalist"],
+    type: "concept",
+  },
+  {
+    id: "open-source-religion",
+    label: "Open Source Religion",
+    description:
+      "A decentralized, collaborative and techno-optimistic approach to spirituality in which individuals actively construct and remix their own belief systems much like open source software, emphasizing transparency, iteration, personalization and shared contribution.",
+    url: "",
+    tags: [
+      "technology",
+      "discordianism",
+      "collaboration",
+      "blasphemy",
+      "spirituality",
+    ],
+    type: "concept",
+  },
+  {
+    id: "human-enhancement",
+    label: "Human Enhancement",
+    description:
+      "The use of medical, genetic, cognitive or technological interventions to restore or extend human capabilities beyond typical biological limits, thus raising profound economic, social, ethical and geopolitical implications that require careful governance, public dialogue and responsible regulation.",
+    url: "",
+    tags: ["social-cohesion", "superhuman", "augmentation"],
+    type: "concept",
+  },
+  {
+    id: "technological-singularity",
+    label: "Technological Singularity",
+    description:
+      "A near-future point at which accelerating technological growth and an intelligence explosion from self-improving AI surpass human cognition, rendering the future fundamentally unpredictable and irreversibly transforming human civilization.",
+    url: "",
+    tags: [
+      "artificial-intelligence",
+      "change",
+      "novelty",
+      "human-civilization",
+    ],
+    type: "concept",
+  },
 ];
