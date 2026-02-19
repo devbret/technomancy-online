@@ -445,4 +445,13 @@ export const ideaNodes: IdeaNode[] = [
     tags: ["memetics", "technoshamanism", "absurd"],
     type: "resource",
   },
+  {
+    id: "history-of-rave-culture",
+    label: "History Of Rave Culture",
+    description:
+      "Originated from mid-20th-century large music events and evolved through underground disco, house and techno scenes in the U.S. and U.K. during the 1970s-1990s into a global movement centered on electronic music, community, altered states, spiritual experience and immersive, often subversive gatherings that later became mainstream yet remain highly influential.",
+    url: "",
+    tags: ["rave", "detroit", "plur", "techno"],
+    type: "concept",
+  },
 ];
