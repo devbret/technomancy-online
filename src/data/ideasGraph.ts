@@ -472,4 +472,52 @@ export const ideaNodes: IdeaNode[] = [
     tags: ["enchantment", "experience", "rave-culture", "computers"],
     type: "concept",
   },
+  {
+    id: "digital-temple",
+    label: "Digital Temple",
+    description:
+      "A digitally mediated environment where users can build, perform and experience a sense of sacred presence, worship and community. Sacredness in a digital temple is constructed through relational practices, shared intentionality, digital symbols and sensory cues like lighting and soundscapes.",
+    url: "",
+    tags: ["preservation", "immersive", "digital-native", "ritual", "sacred"],
+    type: "concept",
+  },
+  {
+    id: "sacred-digital-space",
+    label: "Sacred Digital Space",
+    description:
+      "Represent the de-territorialization of religion. The holiness of sacred digital space is not inherent to physical architecture or geography, but is instead a performative and relational phenomenon created by the active participation and shared intentionality of the users.",
+    url: "",
+    tags: [
+      "atmosphere",
+      "interactivity",
+      "spatial-markers",
+      "symbols",
+      "memory",
+    ],
+    type: "concept",
+  },
+  {
+    id: "networked-spirituality",
+    label: "Networked Spirituality",
+    description:
+      "A contemporary form of religious experience where divinity and the sacred are encountered through digital connectivity, active participation and mediated intimacy rather than through physical co-presence.",
+    url: "",
+    tags: [
+      "connectivity",
+      "participation",
+      "user-interface",
+      "decentralized",
+      "digital",
+    ],
+    type: "concept",
+  },
+  {
+    id: "narrative-environments",
+    label: "Narrative Environments",
+    description:
+      "Intentionally designed spaces which utilize spatial, tactile and sensory stimuli to unfold a story over time and space, providing cognitive and emotional experiences that encourage users to reflect, question and debate.",
+    url: "",
+    tags: ["perception", "meaning-making", "experience", "content", "space"],
+    type: "concept",
+  },
 ];
